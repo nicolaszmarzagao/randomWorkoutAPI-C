@@ -1,2 +1,10 @@
 # randomWorkoutAPI-C
-This is a random workout generator API written in C, all from scratch.
+
+### CSV Helper Commandline Tool
+[X] - Write exercises to file.
+[X] - Delete exercises from file.
+[ ] - Retreave exercises from file.
+
+### Webserver
+### API functionality
+
